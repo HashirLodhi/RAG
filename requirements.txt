@@ -1,0 +1,7 @@
+gradio 
+langchain 
+langchain-community 
+langchain-chroma 
+langchain-huggingface 
+openai 
+chromadb
